@@ -8,6 +8,12 @@
 </head>
 <body>
     <h1>Hello World!!</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias inventore nobis voluptate blanditiis sit odio quisquam! Optio earum sed assumenda praesentium expedita iure, consectetur dolore a ad? Accusamus, recusandae natus.</p>
+    <h2>Makanan Favorit</h2>
+    <ul>
+        <li>Pecel Ayam</li>
+        <li>Pizza</li>
+        <li>Nasi Goreng</li>
+        <li>Indomie</li>
+    </ul>
 </body>
 </html>
